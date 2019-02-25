@@ -83,7 +83,7 @@ public class mainscreen extends AppCompatActivity {
                         startActivity(intent);
                     }
                     if(finali==4){
-                        Intent intent=new Intent(mainscreen.this,chatActivity.class);
+                        Intent intent=new Intent(mainscreen.this,MainChatActivity.class);
                         startActivity(intent);
                     }
                 }

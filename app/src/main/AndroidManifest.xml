@@ -33,7 +33,7 @@
 
         <activity android:name=".CanteenActivity" />
         <activity android:name=".lostfound" />
-        <activity android:name=".chatActivity"></activity>
+        <activity android:name=".MainChatActivity"></activity>
     </application>
 
 </manifest>
